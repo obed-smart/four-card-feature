@@ -136,6 +136,10 @@ body {
         @include section-style;
         border-top: 5px solid $Blue;
 
+        @media (max-width: 768px) {
+           margin-bottom: 5rem;
+          }
+
         h1 {
             @include section_head;
         }

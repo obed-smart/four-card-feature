@@ -128,6 +128,11 @@ body {
     margin: 0.5rem;
   }
 }
+@media (max-width: 768px) {
+  .card_2 .card_section_4 {
+    margin-bottom: 5rem;
+  }
+}
 .card_2 .card_section_4 h1 {
   margin-bottom: 0.5rem;
   font-weight: 600;
@@ -230,4 +235,4 @@ body {
     margin-left: 12rem;
     margin-top: 2.5rem;
   }
-}
+}/*# sourceMappingURL=style.css.map */
