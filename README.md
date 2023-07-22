@@ -13,7 +13,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 
-[](./screenshot/desktop-view.png)
+![](./screenshot/desktop-view.png)
 
 ### Links
 
